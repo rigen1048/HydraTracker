@@ -74,9 +74,6 @@ Your CSV is now ready to import into HydraWatch!
 
 Pull requests are welcome! Feel free to open an issue if you have ideas or find bugs.
 
----
-
 **Made with ❤️ for the HydraWatch community**
 
 *Star the repo if this made your life easier!* ⭐
-```
